@@ -1,4 +1,4 @@
-# Catting absolute paths
+# Translating characters
 
 ## My solve
 **Flag:** `pwn.college{Un3XvhK6jWBy2zH4fNHzLa6VLps.01MxEzNxwyM1gjNzEzW}`

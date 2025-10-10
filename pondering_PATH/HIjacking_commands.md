@@ -1,4 +1,4 @@
-# Reading Files
+# Hijacking Commands
 
 ## My solve
 **Flag:** `pwn.college{0-qiTRvDHMM-8iVQKV1ABgmdawN.QX3cjM1wyM1gjNzEzW}`
